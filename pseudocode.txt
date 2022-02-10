@@ -1,0 +1,6 @@
+ ROT 13 algorithm
+	 We need to create an array that references the array. 
+		
+	array[letters] and the use ASCII values to assign them
+
+    
